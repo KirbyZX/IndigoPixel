@@ -2,7 +2,7 @@
 
 Welcome to the inaugural game of Indigo Pixel studio!
 
-![Indigo Pixel logo](/Heartbroken/indigo-pixel.jpg)
+![Indigo Pixel logo](/Heartbroken/indigo-pixel.png)
 
 This game is called *Heartbroken* and it's really cool.
 
