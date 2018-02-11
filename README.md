@@ -6,5 +6,5 @@ This the inaugural game of Indigo Pixels studio!
 
 Heartbroken is an RPG with a pixel-art style.
 
-You can find the download links above.
+You can find the links to download the game above.
 
