@@ -1,5 +1,8 @@
 Hello and welcome to the official website of Indigo Pixels!
 
+This website is run by me, KirbyZX.
+(Although other people do help.)
+
 # Heartbroken
 
 This the inaugural game of Indigo Pixels studio!
