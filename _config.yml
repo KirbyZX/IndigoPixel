@@ -1,3 +1,4 @@
 theme: jekyll-theme-merlot
 title: Welcome to Indigo Pixels!
 description: Download the latest version of our game from Github!
+show_downloads: "true"
